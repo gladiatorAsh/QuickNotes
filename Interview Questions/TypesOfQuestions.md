@@ -1,7 +1,7 @@
 # Types of Interview Problems
 These are the types of problems that can be encountered in an interview
 
-## Pattern Sliding Window:
+## Pattern : Sliding Window
 	1. Maximum Sum Subarray of Size K (easy)
 	2. Smallest Subarray with a given sum (easy)
 	3. Longest Substring with K Distinct characters (medium)
@@ -15,7 +15,7 @@ These are the types of problems that can be encountered in an interview
 	11. Words Concatenation (hard)
 
 
-## Pattern Two Pointers:
+## Pattern : Two Pointers
 	1. Pair with target Sum (Easy)
 	2. Remove Duplicates (Easy)
 	3. Squaring a Sorted array (easy)
@@ -29,7 +29,7 @@ These are the types of problems that can be encountered in an interview
 	11. Minimum Window Sort (medium)
 	12. Maximum Trapping Water (medium)
 
-## Pattern: Fast and Slow pointers
+## Pattern : Fast and Slow pointers
 	1. Linked List Cycle (easy)
 	2. Start of Linked List cycle (medium)
 	3. Happy Number (Medium)
@@ -37,7 +37,7 @@ These are the types of problems that can be encountered in an interview
 	5. Palindrome Linked List (medium)
 	6. Cycle in a circular array (hard)
 	
-## Pattern: Merge Intervals
+## Pattern : Merge Intervals
 	1. Merge Intervals (medium)
 	2. Insert Interval (medium)
 	3. Intervals Intersection (medium)
@@ -46,7 +46,7 @@ These are the types of problems that can be encountered in an interview
 	6. Maximum CPU Load (hard)
 	7. Employee Free time (hard)
 
-## Pattern: Cyclic Sort
+## Pattern : Cyclic Sort
 	1. Cyclic Sort (easy)
 	2. Find the Missing Number (easy)
 	3. Find all Missing Numbers (easy)
@@ -56,14 +56,14 @@ These are the types of problems that can be encountered in an interview
 	7. Find the Smallest Missing Positive Number (medium)
 	8. Find the First K Missing Positive Numbers (hard)
 
-## Pattern: In-place Reversal of Linked List
+## Pattern : In-place Reversal of Linked List
 	1. Reverse a Linked List (easy)
 	2. Reverse a sub-list (medium)
 	3. Reverse every K-element Sub-list (medium)
 	4. Reverse alternating K-element sub-list (medium)
 	5. Rotate a linked list (medium)
 
-## Pattern: Tree Breadth First Search 
+## Pattern : Tree Breadth First Search 
 	1. Binary Tree Level Order Traversal (easy)
 	2. Reverse Level Order Traversal (easy)
 	3. Zigzag Traversal (medium)
@@ -75,7 +75,7 @@ These are the types of problems that can be encountered in an interview
 	9. Right view of a Binary tree (easy)
 	10. Tree Boundary (hard)
 
-## Pattern: Tree Depth First Search
+## Pattern : Tree Depth First Search
 	1. Binary Tree Path Sum (easy)
 	2. All Paths for a Sum (easy)
 	3. Sum of Path Numbers (medium)
@@ -84,13 +84,13 @@ These are the types of problems that can be encountered in an interview
 	6. Tree Diameter (medium)
 	7. Path with Maximum Sum (hard)
 
-## Pattern: Two Heaps
+## Pattern : Two Heaps
 	1. Find the Median of a Number Stream (medium)
 	2. Sliding Window Median (hard)
 	3. Maximize Capital (hard)
 	4. Next Interval (hard)
 
-## Pattern: Subsets
+## Pattern : Subsets
 	1. Subsets (easy)
 	2. Subsets with duplicates (easy)
 	3. Permutations (medium)
@@ -101,7 +101,7 @@ These are the types of problems that can be encountered in an interview
 	8. Structurally Unique Binary Search Trees (hard)
 	9. Count of Structurally Unique Binary Search Trees (hard)
 
-## Pattern: Modified Binary Search
+## Pattern : Modified Binary Search
 	1. Order agnostic Binary Search (easy)
 	2. Ceiling of a number (medium)
 	3. Next Letter (medium)
@@ -113,7 +113,7 @@ These are the types of problems that can be encountered in an interview
 	9. Search in rotated array (medium)
 	10. Rotation count  (medium
 
-## Pattern: Top K elements
+## Pattern : Top K elements
 	1. Top K Numbers  (easy)
 	2. Kth Smallest Number (easy)
 	3. K Closest Points to the origin (easy)
@@ -129,7 +129,7 @@ These are the types of problems that can be encountered in an interview
 	13. Scheduling tasks (hard)
 	14. Frequency stack (hard)
 
-## Pattern: K way merge 
+## Pattern : K way merge 
 	1. Merge K sorted lists (medium)
 	2. Kth smallest number in M sorted lists (medium)
 	3. Kth smallest number in a sorted matrix (medium)
@@ -137,7 +137,7 @@ These are the types of problems that can be encountered in an interview
 	5. K Pairs with Largest sums (Hard)
 
 
-## Pattern: 0/1 Knapsack (Dynamic Programming)
+## Pattern : 0/1 Knapsack (Dynamic Programming)
 	1. 0/1 Knapsack (medium)
 	2. Equal Subset Sum Partition (medium)
 	3. Subset Sum (medium)
