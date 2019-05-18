@@ -115,7 +115,7 @@
 
 
 ## Azure
-  1. Deploying to Azure
+  	1. Deploying to Azure
 
 ## CSS
 	1. Bold first character
@@ -139,7 +139,7 @@
 	5. Advantages of Redis
 	6. Token vs Basic auth
 	7. Advantages of tokens
-  8. No pass, invalidation, multiple tokens, expiry smaller attack window
+	8. No pass, invalidation, multiple tokens, expiry smaller attack window
 		
 	
 
