@@ -10,7 +10,6 @@
 	9. What are SOLID principles?
 	10. What is continuous integration and what is the need for it?
 
-
 ## Behavioral
 	1. Talk abt a bug or technical problem you took a long time to solve
 
@@ -37,7 +36,6 @@
 	20. Post array of object to API
 	21. Get first n elements from an array
 	22. Random number
-
 
 ## React
 	1. How to toggle class onclick in React?
@@ -73,7 +71,10 @@
 	31. What are Redux selectors and why to use them?
 	32. What is the difference between try catch block and error boundaries?
 	33. What is code-splitting?
-	
+	34. What are selectors in React?
+	35. When to use constructor, componentDidMount, componentDidUpdate?
+	36. Can I call APIs inside render?
+	37. How to respond to an action? How to respond to changes in props?	
 
 ## Web
 	1. What are the tradeoffs of client-side rendering vs. server-side rendering?
@@ -147,15 +148,12 @@
 	51. What is the difference between throw and throw ex?
 	52. What is the difference between constant and readonly?
 	53. What are extension methods in C#
-	
-
 
 ## DB
 	1. In your opinion, is it always needed to use database normalization? When is it advisable to use denormalized databases?
 	2. Find duplicates in tables on Name column - Id, Name, Age, Detail, 
 	3. Indexes - Types of Indexes, How to handle slowness
 	4. How are indexes stored? Clustered vs unclustered index
-
 
 ## Coding
 	1. Find Kth largest element in array
@@ -169,7 +167,6 @@
 ## AngularJS
 	1. How do you share data between controllers?
 	2. What is the difference between one-way binding and two-way binding? 
-	
 	
 ## Random
 	1. How would you programmatically detect file duplicates?
